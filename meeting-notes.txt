@@ -1,0 +1,12 @@
+SAMPLE INPUT (made up for this kit; replace it with your own job)
+
+Ops sync, Tuesday. Present: Maya, Dev, Priya, Sam.
+
+- Maya: the vendor contract renews on the 30th. We agreed to renew for one year, not three.
+- Dev will draft the renewal email to the vendor by Friday.
+- The onboarding checklist is out of date. Priya said she'd take a pass at it.
+- Sam raised the office move. No decision; we need the lease numbers first.
+- Agreed: weekly ops sync moves from Tuesday to Thursday, starting next week.
+- Dev asked who owns the shared calendar now that Lena has left. Nobody knew.
+- Priya to send the new-hire laptop order to IT by Wednesday.
+- Maya will check the lease numbers with finance, date TBD.
