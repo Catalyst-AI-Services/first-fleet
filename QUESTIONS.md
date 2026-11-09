@@ -6,7 +6,7 @@ Card format:
 
 ```text
 ## Q1: <the question>
-From: doer | checker
+From: builder | reviewer
 Stakes: what happens if we get this wrong
 Options: A) ...  B) ...
 Recommendation: A, because ...
